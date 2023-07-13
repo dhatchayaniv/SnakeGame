@@ -1,1 +1,1 @@
-https://github.io/dhatchayaniv/SnakeGame/
+https://dhatchayaniv.github.io/SnakeGame/
